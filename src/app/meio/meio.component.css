@@ -1,0 +1,11 @@
+img{
+    width: 20%; 
+    height: 20%;
+}
+div{ 
+    align-self: center;
+    text-align: center;
+    background-color: rgb(17, 226, 216);
+    margin-top: 0%;
+    margin-bottom: 0%;
+}

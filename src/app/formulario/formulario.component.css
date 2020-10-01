@@ -1,0 +1,19 @@
+.principal{
+    margin: auto;
+    text-align: center;
+}
+
+.conteudo{
+    padding: 12px;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+.titulo{
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-bottom: 12px;
+    background-color: orange;
+    border-radius: 8em;
+}
+
